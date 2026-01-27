@@ -4,4 +4,6 @@ Modified this file in GitHub to verify Git Fetch command!
 
 New Branch Added!
 
+Line in main branch.
+
 Line in Master Branch to face merge conflicts!
