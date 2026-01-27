@@ -1,1 +1,3 @@
 Created this newfile.txt
+
+Modified this file in GitHub to verify Git Fetch command!
