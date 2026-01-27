@@ -7,3 +7,5 @@ New Branch Added!
 Line in main branch.
 
 Line in Master Branch to face merge conflicts!
+
+git revert lookup!
