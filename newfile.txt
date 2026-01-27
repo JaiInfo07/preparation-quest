@@ -5,3 +5,5 @@ Modified this file in GitHub to verify Git Fetch command!
 New Branch Added!
 
 Line in main branch.
+
+stashed master branch's uncommitted file!
